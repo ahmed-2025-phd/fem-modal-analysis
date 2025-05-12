@@ -1,0 +1,10 @@
+name: fem-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - fenics-dolfinx
+  - mpi4py
+  - petsc4py
+  - slepc4py
+  - numpy
